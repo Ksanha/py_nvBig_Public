@@ -5,8 +5,8 @@ import datetime
 import time
 import json
 
-client_id = '' #네이버에서 개발자 코드 (아이디, 비번) 받아오세요
-client_secret = '' #네이버에서 개발자 코드 (아이디, 비번) 받아오세요
+client_id = '' #네이버에서 개발자 코드 (아이디, 비번) 받아오세요.
+client_secret = '' #네이버에서 개발자 코드 (아이디, 비번) 받아오세요.
 
 #[CODE 1] url 접속을 요청하고 응답 받아서 반환
 def getRequestUrl(url):
